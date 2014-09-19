@@ -51,6 +51,7 @@ blockquote.bigquote {
 	font-size: 48px;
 	font-weight: 700;
 	line-height: 1.1em;
+	text-shadow: 2px 1px #000;
 }
 
 .text-bold {
@@ -131,6 +132,7 @@ a:hover {
 
 .color-white {
 	color: #fff;
+	text-shadow: 2px 1px #000;
 }
 
 .theme-bg {
@@ -755,6 +757,7 @@ nav#filter a {
 	font-size: 18px;
 	font-family: Georgia, sans-serif;
 	line-height: 1.5em;
+	text-shadow: 2px 1px #000;
 }	
 
 /*===========================

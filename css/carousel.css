@@ -49,6 +49,7 @@ body {
 
 .carousel-caption > h1 {
   color: #FFF;
+  text-shadow: 2px 1px #000;
 }
 
 /* Declare heights because of positioning of img element */
@@ -127,6 +128,7 @@ body {
     margin-bottom: 20px;
     font-size: 21px;
     line-height: 1.4;
+	text-shadow: 2px 1px #000;
   }
 
   .featurette-heading {
