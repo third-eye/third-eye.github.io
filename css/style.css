@@ -334,19 +334,16 @@ section.section {
 ============================= */
 
 #parallax1{	
-	background-image: url(../img/parallax/img1.jpg);
-}
-#parallax1{	
-	background-image: url(../img/parallax/openroad.jpg);
+	background-image: url(../img/parallax/para2.jpg);
 }
 #parallax2{	
-	background-image: url(../img/parallax/img2.jpg);
+	background-image: url(../img/parallax/para1.jpg);
 }
 #parallax3{	
-	background-image: url(../img/parallax/img1.jpg);
+	background-image: url(../img/parallax/para4.jpg);
 }
 #testimonials{	
-	background-image: url(../img/parallax/img3.jpg);
+	background-image: url(../img/parallax/para3.jpg);
 }
 /*===========================
   --- Header & menu ----
@@ -755,6 +752,21 @@ nav#filter a {
 .testimonial h5 {
 	color: #fff;
 	font-size: 18px;
+	font-family: Georgia, sans-serif;
+	line-height: 1.5em;
+	text-shadow: 2px 1px #000;
+}	
+
+.testimonial h4 {
+	color: #fff;
+	font-size: 20px;
+	font-family: Georgia, sans-serif;
+	line-height: 1.5em;
+	text-shadow: 2px 1px #000;
+}	
+
+.testimonial h3 {
+	color: #fff;
 	font-family: Georgia, sans-serif;
 	line-height: 1.5em;
 	text-shadow: 2px 1px #000;
