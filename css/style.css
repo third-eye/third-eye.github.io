@@ -333,17 +333,24 @@ section.section {
  --- Parallax ---
 ============================= */
 
-#testimonials1{	
+#testimonials{	
 	background-image: url(../img/parallax/para3.jpg);
 }
-#testimonials2{	
+#parallax1{	
 	background-image: url(../img/parallax/para2.jpg);
 }
-#testimonials3{	
+#parallax2{	
 	background-image: url(../img/parallax/para1.jpg);
 }
-#testimonials4{	
+#parallax3{	
 	background-image: url(../img/parallax/para4.jpg);
+}
+.parallax h4 {
+	color: #fff;
+	font-size: 20px;
+	font-family: Georgia, sans-serif;
+	line-height: 1.5em;
+	text-shadow: 2px 1px #000;
 }
 
 /*===========================
