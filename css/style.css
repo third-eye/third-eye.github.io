@@ -333,18 +333,19 @@ section.section {
  --- Parallax ---
 ============================= */
 
-#parallax1{	
-	background-image: url(../img/parallax/para2.jpg);
-}
-#parallax2{	
-	background-image: url(../img/parallax/para1.jpg);
-}
-#parallax3{	
-	background-image: url(../img/parallax/para4.jpg);
-}
-#testimonials{	
+#testimonials1{	
 	background-image: url(../img/parallax/para3.jpg);
 }
+#testimonials2{	
+	background-image: url(../img/parallax/para2.jpg);
+}
+#testimonials3{	
+	background-image: url(../img/parallax/para1.jpg);
+}
+#testimonials4{	
+	background-image: url(../img/parallax/para4.jpg);
+}
+
 /*===========================
   --- Header & menu ----
 =========================== */
