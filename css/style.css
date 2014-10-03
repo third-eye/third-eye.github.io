@@ -628,8 +628,14 @@ About
 
 .team-detail h4 {
 	font-weight: 700;
+	margin:5px;
 }
 
+.team-detail img {
+	width:22px;
+	height:auto;
+	margin: 0px 0px 20px 0px;
+}
 
 /*===========================
   Portfolio
