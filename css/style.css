@@ -84,6 +84,13 @@ a:hover {
 	text-transform: uppercase;
 }
 
+.disabled { 
+	filter: alpha(opacity=50); 
+	-moz-opacity:0.50; 
+	opacity:0.5; 
+	cursor: not-allowed;
+}
+
 /*==========================================================================
   Misc & Adjust 
  ========================================================================== */
@@ -347,6 +354,9 @@ section.section {
 }
 #parallax4{	
 	background-image: url(../img/parallax/para5.jpg);
+}
+#parallax5{	
+	background-image: url(../img/parallax/para6.jpg);
 }
 .parallax h4 {
 	color: #fff;
